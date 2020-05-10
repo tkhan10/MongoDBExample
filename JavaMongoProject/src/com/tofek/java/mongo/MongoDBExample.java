@@ -55,7 +55,7 @@ public class MongoDBExample {
 		
 		client.close();
 		
-				
+		// Test has been completed.
 		
 		
 		
